@@ -32,6 +32,11 @@ main {
   font-size: 25px;
 }
 
+.form-control {
+  width: 200px;
+  margin: auto;
+}
+
 .obs {
   box-sizing: content-box;
   padding: 10px;
